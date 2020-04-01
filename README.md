@@ -8,7 +8,7 @@
 # Instalar dependencias (concurrently) en la carpeta raíz
 npm install
 
-# Instalar dependencias en la carpeta client (react)
+# Instalar dependencias en la carpeta client (React)
 npm run client-install
 
 # Instalar dependencias en la carpeta server (Express)

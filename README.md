@@ -25,3 +25,16 @@ npm run client
 
 # El Servidor(Express) corre en http://localhost:5000 y el Cliente(React) en http://localhost:3000
 ```
+
+## Deployment
+
+En el package.json de la carpeta raíz están creados los scripts para hacer el deploy en heroku
+
+### Autor
+
+Damián Pugliese
+
+### Versión
+
+1.0.0
+

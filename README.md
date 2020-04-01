@@ -1,1 +1,1 @@
-# React-Express Starter
+# React-Express Starter Kit

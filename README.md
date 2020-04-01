@@ -5,7 +5,8 @@ Kit de Inicio para crear Apps Full Stack con React y Express. Con un sólo coman
 ## Inicio Rápido
 
 ```
-# Instalar dependecias (concurrently) de la carpeta raíz
-*npm install*
-```
+Instalar dependecias (concurrently) de la carpeta raíz
+**npm install**
 
+
+```

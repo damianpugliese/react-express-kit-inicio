@@ -28,7 +28,7 @@ npm run client
 
 ## Deployment
 
-En el package.json de la carpeta raíz están creados los scripts para hacer el deploy en heroku
+En el package.json de la carpeta raíz están creados los scripts para hacer el deploy a heroku
 
 ### Autor
 

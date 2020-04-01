@@ -1,4 +1,4 @@
-# React-Express Starter Kit
+# React-Express Kit de Inicio
 
 > Kit de Inicio para crear Apps Full Stack con React y Express. Con un sólo comando se inician el servidor(backend) y el cliente(frontend)
 
